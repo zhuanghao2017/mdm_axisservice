@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/com/yonyou/itf/mdm07/sharing/IMdSharingThirdPartService/IMdSharingThirdPartService.java=UTF-8
+encoding//src/com/yonyou/itf/mdm07/sharing/IMdSharingThirdPartService/IMdSharingThirdPartServiceLocator.java=UTF-8
+encoding//src/com/yonyou/itf/mdm07/sharing/IMdSharingThirdPartService/IMdSharingThirdPartServicePortType.java=UTF-8
+encoding//src/com/yonyou/itf/mdm07/sharing/IMdSharingThirdPartService/IMdSharingThirdPartServiceSOAP11BindingSkeleton.java=UTF-8
+encoding//src/com/yonyou/itf/mdm07/sharing/IMdSharingThirdPartService/IMdSharingThirdPartServiceSOAP11BindingStub.java=UTF-8
+encoding//src/com/yonyou/itf/mdm07/sharing/IMdSharingThirdPartService/MdSharingThirdPartServiceImpl.java=UTF-8
+encoding//src/com/yonyou/itf/mdm07/sharing/MdMapingVO/CustomerVO.java=UTF-8
+encoding//src/com/yonyou/itf/mdm07/sharing/MdMapingVO/MdMapingVO.java=UTF-8
+encoding//src/com/yonyou/itf/mdm07/sharing/OuterSystemRetVO/OuterSystemRetVO.java=UTF-8
